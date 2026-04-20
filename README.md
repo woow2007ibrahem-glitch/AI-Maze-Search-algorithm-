@@ -1,6 +1,6 @@
 # AI project for solving a maze search problem
 
-This project for improvement several search algorithms like BFS, DFS, UCS and A*.
+This project for developing several search algorithms like BFS, DFS, UCS and A*.
 What i have developed on this project is BFS and UCS as known as Dijstra Algorithm.
 
 ## requirement
